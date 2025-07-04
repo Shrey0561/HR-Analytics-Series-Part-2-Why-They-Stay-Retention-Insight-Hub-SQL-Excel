@@ -38,8 +38,11 @@ Employees with *high job involvement (Level 4)* had the *lowest attrition* and *
 |`/images/`               | Dashboard Preview Screenshot  |
 |`/sql_queries/`          | All queries used for analysis |
 
+## Case Study: Behind the Queries
+[Read the full case study](https://docs.google.com/document/d/1lmSIyW4AsWBMPn9TkkJxtW42j8BunomERdXkg3M_VFQ/edit?usp=sharing)
+
 ## Dashboard Preview
-This Excel dashboard visualizes retention trends by key factors such as salary hike bands, income level, stock option level, manager tenure, and job involvement, helping uncover what keeps employees loyal.
+This Excel dashboard visualizes retention trends by key factors such as salary hike bands, income level, stock options level, manager tenure, and job involvement, helping uncover what keeps employees loyal.
 
 ![Dashboard Retention Preview](dashboard_retention_preview.png)
 
@@ -52,7 +55,8 @@ While most HR dashboards focus on churn, this one celebrates *loyalty*. Understa
 
 ## Let's Connect
 I'm actively building tools to uncover workplace insights through data. Feel free to reach out via:
- - Github (https://github.com/Shrey0561)
- - LinkedIn (https://www.linkedin.com/in/shreya-srinath-879a66205/)
+ - [GitHub](https://github.com/Shrey0561)
+ - [LinkedIn](https://www.linkedin.com/in/shreya-srinath-879a66205/)
+ - [Notion](https://www.notion.so/Data-Analyst-Portfolio-221ebe151fdd801e9445e32590b67758?source=copy_link)
 
 I'm always up for conversations or new opportunities!
