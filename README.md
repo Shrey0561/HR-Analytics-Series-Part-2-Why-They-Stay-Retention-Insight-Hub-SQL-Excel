@@ -12,6 +12,7 @@ This project is the second installment in a two-part HR analytics series. While 
  * [Overview](#overview)
  * [Key Questions Answered](#key-questions-answered)
  * [Dashboard Preview Section](#dashboard-preview-section)
+ * [SQL Queries Preview Section](#sql-queries-preview-section)
  * [KPIs Tracked](#kpis-tracked)
  * [Business Insights & Strategic Recommendations](#business-insights--strategic-recommendations)
  * [Tools Used](#tools-used)
@@ -36,6 +37,11 @@ The dashboard below visualizes retention metrics such as salary hike bands, inco
 
 ![Dashboard Retention Preview](dashboard_retention_preview.png)
 
+## SQL Queries Preview Section
+The following queries show how I calculated key retention metrics using SQL, including total retention rate and segmentation by stock option levels. These formed the foundation for the Excel dashboard insights.
+![Stock Option Level Queries](stock_option_level_queries.png)
+
+![Total Retention Rate Queries](total_retention_rate_queries.png)
 ## KPIs Tracked
  * Total Employees 1470
  * Overall Retention Rate: 83.88%
